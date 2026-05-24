@@ -1,9 +1,5 @@
 # Hi there, I'm Denis 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 I focus on Backend Development, specializing in the .NET ecosystem.
 
 ---
