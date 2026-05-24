@@ -22,9 +22,3 @@ I focus on Backend Development, specializing in the .NET ecosystem.
 </p>
 
 ---
-
-### 📈 GitHub Status
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true&title_color=512BD4&icon_color=512BD4&text_color=777777" height="150" alt="GitHub Stats" />
-</p>
